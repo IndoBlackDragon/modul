@@ -16,11 +16,11 @@ $ cd modul
 
 # cara menjalankan
 
-$ python iinstal.py install
+$ python instal.py install
 
 # +tambahan
 
 Setelah kalian menjalankan scriptnya kalian secara otomatis 
-telah menginstall modul Ahmad_jpg, lalu literasilah sebentar
+telah menginstall modul indoBD, lalu literasilah sebentar
 
 
