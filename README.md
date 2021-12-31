@@ -1,7 +1,10 @@
 # install bahan
 $ apt update && apt upgrade 
+
 $ apt install python
+
 $ apt install git
+
 $ apt install nano
 
 # cloning respository
